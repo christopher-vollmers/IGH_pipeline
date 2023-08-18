@@ -10,4 +10,6 @@ Needs FLASH read merger in path
 How to run:
 
 python3 IGH_pipeline.py file_containing_path_to_folders_containing_R1_and_R2_files.
+
+
 One directory per line. 
